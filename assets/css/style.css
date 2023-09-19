@@ -114,10 +114,14 @@
     border: 1px solid transparent;
     transition: all 300ms linear;
 }
-.try-btn:hover, .get-btn:hover, .bg-btn:hover{
+.try-btn:hover, .get-btn:hover {
     background-color: #1E71FF;
     color: #fff;
     border: 1px solid #fff;
+}
+.bg-btn:hover{
+    background-color: #fff;
+    color: #1E71FF;
 }
 .pb-160{
     padding-bottom: 160px;
