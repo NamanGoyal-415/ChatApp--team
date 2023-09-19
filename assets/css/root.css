@@ -1,0 +1,50 @@
+/* color */
+.color-blue {
+    color: #1E71FF;
+}
+
+.color-grey {
+    color: rgba(43, 53, 62, 0.70);
+}
+.color-black{
+    color: #2B353E;
+}
+
+/* ff-family */
+.ff-poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.ff-roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* size */
+.fs-26 {
+    font-size: 26px;
+}
+
+.fs-15 {
+    font-size: 15px;
+}
+.fs-18 {
+    font-size: 18px;
+}
+.fs-13 {
+    font-size: 13px;
+}
+
+/* font-weight */
+
+.fw-600 {
+    font-weight: 600;
+}
+
+.fw-275 {
+    font-weight: 275;
+}
+
+.fw-400 {
+    font-weight: 400;
+}

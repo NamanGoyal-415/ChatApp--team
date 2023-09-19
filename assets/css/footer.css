@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+
+
+.para-footer {
+    max-width: 168px;
+}
+
+.font-help {
+    list-style-type: none !important;
+    cursor: pointer;
+}
+
+.font-list {
+    list-style-type: none;
+    cursor: pointer;
+}
+
+
+
+@media (max-width:576px) {
+
+    div.vv {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+}
+@media (max-width:768px)
+{
+    p.vs{
+        text-align: center;
+    }
+}
