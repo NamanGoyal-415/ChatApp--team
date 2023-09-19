@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&family=Roboto:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&family=Roboto:wght@400;500&display=swap');
 
 * {
     list-style-type: none;
@@ -11,8 +11,8 @@
     --fc-black:#000;
 
     /*font-family*/
-    --ff-noto: 'Noto Serif', serif;
-    --ff-per:'Perpetua Titling MT', serif;
+    --ff-poppins: 'Poppins', sans-serif;
+    --ff-roboto: 'Roboto', sans-serif;
     
     /*font-size*/
     --fs-14:14px;
