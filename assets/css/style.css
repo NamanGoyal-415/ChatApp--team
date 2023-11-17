@@ -392,7 +392,7 @@
         align-items: center;
         top: 0;
         right: -100%;
-        background-color: orangered;
+        background-color: #1E71FF;
         transition: all 400ms linear;
         min-width: 100%;
         position: fixed;
